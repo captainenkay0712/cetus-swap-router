@@ -331,21 +331,11 @@ Contributions are welcome! Please:
 
 ## License
 
-[Add your license here]
+NinetyEight  - captainenkay
 
 ## Resources
 
-- [Cetus Protocol Documentation](https://docs.cetus.zone/)
 - [Sui Move Book](https://move-book.com/)
 - [CLMM Concepts](https://docs.uniswap.org/concepts/protocol/concentrated-liquidity)
-- [Sui Developer Portal](https://docs.sui.io/)
-
-## Support
-
-- Discord: [Cetus Community](https://discord.gg/cetus)
-- Twitter: [@CetusProtocol](https://twitter.com/CetusProtocol)
-- Documentation: [docs.cetus.zone](https://docs.cetus.zone/)
-
----
 
 **Note**: This is a development version. Always audit smart contracts before production use.
